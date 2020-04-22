@@ -10,6 +10,6 @@
     "webdriver-start": "./node_modules/.bin/webdriver-manager start",
     "protractor": "./node_modules/.bin/protractor configuration.js",
     "start": "npm run webdriver-update && npm run webdriver-start",
-    "regression": "./node_modules/.bin/protractor configuration.js --suite"
+    "regression": "./node_modules/.bin/protractor configuration.js --regression"
   }
 }
