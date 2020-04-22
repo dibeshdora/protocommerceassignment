@@ -15,8 +15,8 @@ onPrepare: function(){
 	        })
 	      )
 },
-suite:
+*/suite:
 	{
 	regression:['RegistrationPage','ShoppingPage.js']
-	}
+	}*/
 };
