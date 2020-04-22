@@ -14,5 +14,9 @@ onPrepare: function(){
 	          savePath: 'target/screenshots'
 	        })
 	      )
-}
+},
+suite:
+	{
+	regression:['RegistrationPage','ShoppingPage.js']
+	}
 };
